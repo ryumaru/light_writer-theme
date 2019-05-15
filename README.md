@@ -1,2 +1,2 @@
-# light_writer-theme
-Light color version of the preferred, tabbed Ryuzine Writer theme.
+# light_writer
+A light color version of the preferred Ryuzine Writer theme.
